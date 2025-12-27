@@ -1,0 +1,12 @@
+/* completed todo style */
+.completed {
+  text-decoration: line-through;
+  background-color: rgb(0, 255, 0);
+}
+
+/* simple list style */
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
